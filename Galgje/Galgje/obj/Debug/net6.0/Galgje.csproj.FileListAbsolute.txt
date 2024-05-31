@@ -1,0 +1,14 @@
+C:\Users\sfjdi\source\repos\Galgje\Galgje\bin\Debug\net6.0\Galgje.exe
+C:\Users\sfjdi\source\repos\Galgje\Galgje\bin\Debug\net6.0\Galgje.deps.json
+C:\Users\sfjdi\source\repos\Galgje\Galgje\bin\Debug\net6.0\Galgje.runtimeconfig.json
+C:\Users\sfjdi\source\repos\Galgje\Galgje\bin\Debug\net6.0\Galgje.dll
+C:\Users\sfjdi\source\repos\Galgje\Galgje\bin\Debug\net6.0\Galgje.pdb
+C:\Users\sfjdi\source\repos\Galgje\Galgje\obj\Debug\net6.0\Galgje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sfjdi\source\repos\Galgje\Galgje\obj\Debug\net6.0\Galgje.AssemblyInfoInputs.cache
+C:\Users\sfjdi\source\repos\Galgje\Galgje\obj\Debug\net6.0\Galgje.AssemblyInfo.cs
+C:\Users\sfjdi\source\repos\Galgje\Galgje\obj\Debug\net6.0\Galgje.csproj.CoreCompileInputs.cache
+C:\Users\sfjdi\source\repos\Galgje\Galgje\obj\Debug\net6.0\Galgje.dll
+C:\Users\sfjdi\source\repos\Galgje\Galgje\obj\Debug\net6.0\refint\Galgje.dll
+C:\Users\sfjdi\source\repos\Galgje\Galgje\obj\Debug\net6.0\Galgje.pdb
+C:\Users\sfjdi\source\repos\Galgje\Galgje\obj\Debug\net6.0\Galgje.genruntimeconfig.cache
+C:\Users\sfjdi\source\repos\Galgje\Galgje\obj\Debug\net6.0\ref\Galgje.dll
